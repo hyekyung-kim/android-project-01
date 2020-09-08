@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">MA02_20170931</string>
+
+    <string name="naverBook_api_url">https://openapi.naver.com/v1/search/book.xml?display=50&amp;start=1&amp;query=</string>
+    <string name="naverBook_id">M5s1qkgTbURhi0VNUa5l</string>
+    <string name="naverBook_secret">X6TjOdnypJ</string>
+
+    <string name="naverBlog_api_url">https://openapi.naver.com/blog/writePost.json</string>
+    <string name="naverBlog_id">Gl3bRziWQm4kIrdFQJCH</string>
+    <string name="naverBlog_secret">1mR1IGTx_n</string>
+
+    <string name="googlePlace_api_key">AIzaSyCbMryM-pGW6FbloBnu8fYyBwqKkX-l3YU</string>
+
+    <string name="blog_api_url">https://openapi.naver.com/v1/search/local.xml?query=</string>
+    <string name="client_id">tnJjD9LjXIVbTQz1ZnGM</string>
+    <string name="client_secret">Iw56T1j636</string>
+
+    <string name="permission_camera">카메라 접근 권한이 필요합니다.</string>
+    <string name="permission_gallery">갤러리 접근 권한이 필요합니다.</string>
+
+    <string name="camera">카메라</string>
+    <string name="gallery">갤러리</string>
+
+    <string name="main_title"></string>
+    <string name="btn_mybook">내 서재</string>
+    <string name="btn_library">주변 도서관</string>
+    <string name="btn_search">도서 검색</string>
+    <string name="btn_camera">카메라로 기록</string>
+    <string name="btn_share">사진으로 공유</string>
+    <string name="btn_loc">도서관/카페/서점 검색</string>
+
+    <string name="list_layout"></string>
+    <string name="subject">제목</string>
+    <string name="author">저자</string>
+    <string name="publisher">출판사</string>
+    <string name="lendDate">반납 예정일</string>
+    <string name="date">달력</string>
+    <string name="time">시간</string>
+    <string name="hint_date">YYYY/MM/DD TT:MM</string>
+    <string name="alarm">도서 반납 알림</string>
+    <string name="description">도서 요약</string>
+
+
+    <string name="search_info">도서 상세 정보</string>
+    <string name="search_title">책 검색</string>
+    <string name="search_key">키워드를 입력하세요</string>
+
+    <string name="reading_title">읽는중</string>
+    <string name="wish_title">위시</string>
+    <string name="record_title">독서기록</string>
+
+    <string name="libloc_search">현재 화면 주변 도서관 검색</string>
+    <string name="init_lat">37.606320</string>
+    <string name="init_lng">127.041808</string>
+    <string name="lib_info_title">도서관 상세 정보</string>
+    <string name="lib_name">도서관 이름</string>
+    <string name="lib_phone">도서관 번호</string>
+    <string name="lib_address">도서관 주소</string>
+
+
+
+    <string name="menu_reading">새 책 읽기</string>
+    <string name="menu_wish">위시 추가</string>
+    <string name="menu_record">독서기록 추가</string>
+
+    <string name="btn_reading">읽기</string>
+    <string name="btn_update">수정</string>
+    <string name="btn_record">기록</string>
+    <string name="btn_add_wish">위시 추가</string>
+    <string name="btn_add">추가</string>
+    <string name="btn_cancel">취소</string>
+    <string name="btn_OK">확인</string>
+    <string name="btn_sch">검색</string>
+
+    <string name="btn_read_add">내 서재 추가</string>
+
+    <string name="record_paragraph">기록할 구절</string>
+    <string name="record_paragraph_ex">20p, 세상에서 가장 어려운 일은 사람이 사람의 마음을 얻는 일이란다.
+                                                                            -어린왕자- </string>
+    <string name="record_context">독서 기록</string>
+    <string name="record_context_ex">어린왕자의 여행</string>
+    <string name="and">~</string>
+</resources>
